@@ -16,28 +16,28 @@
 
     <string-array name="tittle">
         <item>草帽小子</item>
-        <item>Roronoa Zoro</item>
-        <item>Nami</item>
-        <item>Usopp</item>
-        <item>Vinsmoke Sanji</item>
-        <item>Tony Tony Chopper</item>
-        <item>Nico Robin</item>
-        <item>Franky</item>
-        <item>Brook</item>
-        <item>Jinbe</item>
+        <item>海贼猎人</item>
+        <item>小偷猫</item>
+        <item>狙击之王</item>
+        <item>黑脚</item>
+        <item>爱吃棉花糖的宠物</item>
+        <item>恶魔之子</item>
+        <item>铁人</item>
+        <item>灵魂之王</item>
+        <item>海侠</item>
     </string-array>
 
     <string-array name="position">
-        <item>Monkey D Luffy</item>
-        <item>Roronoa Zoro</item>
-        <item>Nami</item>
-        <item>Usopp</item>
-        <item>Vinsmoke Sanji</item>
-        <item>Tony Tony Chopper</item>
-        <item>Nico Robin</item>
-        <item>Franky</item>
-        <item>Brook</item>
-        <item>Jinbe</item>
+        <item>船长</item>
+        <item>剑士</item>
+        <item>航海士</item>
+        <item>狙击手</item>
+        <item>厨师</item>
+        <item>船医</item>
+        <item>考古学家</item>
+        <item>船匠</item>
+        <item>音乐家</item>
+        <item>掌舵手</item>
     </string-array>
 
 </resources>

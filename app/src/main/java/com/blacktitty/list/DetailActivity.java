@@ -25,11 +25,18 @@ public class DetailActivity extends AppCompatActivity {
         }
     }
 
-    private int setImg(int index) {
+    private int getImg(int index) {
         switch (index) {
-            case 0: return R.drawable.Luffy;
-            case 1: return R.drawable.Luffy;
-            case 2: return R.drawable.Luffy;
+            case 0: return R.drawable.luffy;
+            case 1: return R.drawable.zoro;
+            case 2: return R.drawable.nami;
+            case 3: return R.drawable.usopp;
+            case 4: return R.drawable.sanji;
+            case 5: return R.drawable.chopper;
+            case 6: return R.drawable.robin;
+            case 7: return R.drawable.franky;
+            case 8: return R.drawable.brook;
+            case 9: return R.drawable.jinbe;
             default: return -1;
         }
     }
