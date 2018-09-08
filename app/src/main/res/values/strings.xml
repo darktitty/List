@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">List</string>
+
+    <string-array name="name">
+        <item>Monkey D Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Nami</item>
+        <item>Usopp</item>
+        <item>Vinsmoke Sanji</item>
+        <item>Tony Tony Chopper</item>
+        <item>Nico Robin</item>
+        <item>Franky</item>
+        <item>Brook</item>
+        <item>Jinbe</item>
+    </string-array>
+
+    <string-array name="tittle">
+        <item>草帽小子</item>
+        <item>Roronoa Zoro</item>
+        <item>Nami</item>
+        <item>Usopp</item>
+        <item>Vinsmoke Sanji</item>
+        <item>Tony Tony Chopper</item>
+        <item>Nico Robin</item>
+        <item>Franky</item>
+        <item>Brook</item>
+        <item>Jinbe</item>
+    </string-array>
+
+    <string-array name="position">
+        <item>Monkey D Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Nami</item>
+        <item>Usopp</item>
+        <item>Vinsmoke Sanji</item>
+        <item>Tony Tony Chopper</item>
+        <item>Nico Robin</item>
+        <item>Franky</item>
+        <item>Brook</item>
+        <item>Jinbe</item>
+    </string-array>
+
+</resources>
