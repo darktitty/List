@@ -27,9 +27,9 @@ public class DetailActivity extends AppCompatActivity {
 
     private int setImg(int index) {
         switch (index) {
-            case 0: return R.drawable.;
-            case 1: return R.drawable.;
-            case 2: return R.drawable.;
+            case 0: return R.drawable.Luffy;
+            case 1: return R.drawable.Luffy;
+            case 2: return R.drawable.Luffy;
             default: return -1;
         }
     }
